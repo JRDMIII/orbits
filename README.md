@@ -217,4 +217,4 @@ Now we have this, all that is left to do is run the simulation loop which will l
 
 With this, we have the basic simulation done! From here I would want to either go straight to a 3D simulation or make this one slightly more advanced with body-body collisions. Currently I am leaning towards more advanced mechanics as a 3D simulation - while more interesting - is a pratically identical implementation with 3-D vectors rather than 2.
 
-Big thanks to Sebastian Lague for being such an inspiration - check his YouTube channel out if you haven't already! [text](https://www.youtube.com/@SebastianLague)
+Big thanks to Sebastian Lague for being such an inspiration - check his YouTube channel out if you haven't already! Find his YouTube channel [here](https://www.youtube.com/@SebastianLague)
