@@ -1,6 +1,6 @@
 # Orbits: A Physics Project
 
-![image](https://github.com/user-attachments/assets/220ceead-6070-493b-bac5-bd375b0b5029)
+![image](https://github.com/user-attachments/assets/a99e4902-ff3d-465f-961e-9ddb30275ab6)
 
 Recently I have been interested in creating simulations and doing them without the help of AI so I decided to create a rather simple simulation of planetary bodies and how their forces act on eachother. Even though the project is quite basic, the results should be rather fun to observe.
 
